@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9201857c4f8ff4cafde4a2e00e76ae, type: 3}
+  m_Name: Level4
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 895ba40745ef7b14898f78c4c79a3711, type: 3}
+  spacing: {x: 1.01, y: 1.01}
+  cubePrefab: {fileID: 9062983991090836885, guid: dc614a71d548dee45acc4fdf4586adfe,
+    type: 3}

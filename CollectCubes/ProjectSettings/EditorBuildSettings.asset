@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/Menu.unity
+    guid: 0aaa8cb71fa7e424baa4fba0a04516ab
+  - enabled: 1
+    path: Assets/Game/Scenes/GAME.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Game/Scenes/TIMERGAME.unity
+    guid: d5257397c39636243b3e1c98bd6bb8c5
+  - enabled: 1
+    path: Assets/Game/Scenes/AI Game.unity
+    guid: 47633179f03850f42b5456550d8cfb53
+  m_configObjects: {}
